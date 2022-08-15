@@ -25,6 +25,7 @@ def result(request):
     forecast_url ="https://api.agromonitoring.com/agro/1.0/weather/forecast?lat=%s&lon=%s9&appid=%s"%(x,y,apikey)
     response_forecast = urllib.request.urlopen(forecast_url)
     Json_Data_forecast = json.loads(response_forecast.read())
+    currentdate=[]
     responsedate=[]
     responsedescription=[]
     responsetemp=[]
