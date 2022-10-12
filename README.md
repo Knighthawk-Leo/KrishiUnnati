@@ -4,29 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-एक कदम सफल कृषि की ओर 
-</p>
-
-
-## Contents
-
-- [Problem Statement](#problem-statement)
-- [About the Project](#about-the-project)
-- [Top Features](#top-features)
-- [UI/UX design](#ui/ux-design-)
-- [Built With](#built-with-)
-- [Contributors](#contributors-)
-- [About SIH](#about-sih-)
-
-## Problem Statement
-
-<img src="static/Images/prblm statement.png" width="1000"> <br/>
-**Ministry Category: DRDO <br/>
-Problem Code: NR1175<br/>
-College Name: Bhilai Institute of Technology, Durg <br/>
-College Code: C-16658<br/>
-Team Name: FARMbit<br/>**
 
 ## About The Project
 
@@ -49,8 +26,7 @@ Through the web-app we provide online tele-consultation services as well as offl
 4. Multilingual- Website is available in English, Hindi and other regional languages. The users can easily switch the language of the entire website using the options in the homepage.
 
 ## UI/UX Design
-<img src="UI Design/Layout page.png" width="400">
-<img src="UI Design/" width="100">
+<img src="UI Design/Layout page.png">
 
-## Built With
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
