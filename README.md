@@ -26,7 +26,13 @@ Through the web-app we provide online tele-consultation services as well as offl
 4. Multilingual- Website is available in English, Hindi and other regional languages. The users can easily switch the language of the entire website using the options in the homepage.
 
 ## UI/UX Design
-<img src="UI Design/Layout page.png">
+<img src="https://github.com/Knighthawk-Leo/KrishiUnnati/blob/main/read/home.png">
+<img src="https://github.com/Knighthawk-Leo/KrishiUnnati/blob/main/read/plant.png">
+<img src="https://github.com/Knighthawk-Leo/KrishiUnnati/blob/main/read/otcome.png">
+<img src="https://github.com/Knighthawk-Leo/KrishiUnnati/blob/main/read/otome2.png">
+
+<img src="https://github.com/Knighthawk-Leo/KrishiUnnati/blob/main/read/voice.png">
+
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
